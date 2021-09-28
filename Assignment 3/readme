@@ -1,0 +1,4 @@
+The dataset is about Amazon's top 50 bestselling books between 2009-2019.
+It contains attributes such as Name of the book, author, price,reviews, user ratings and the genre of the book.
+The main aim of this project is to perform Exploratory Data Analysis on this Dataset which include understanding the data, finding missing values, treating null values if any and finally visualizing the data.
+Visualization is about finding relationships between variables such as price of the book over the years, which genre is more popular, reviews of Costliest books and  least rated books.
