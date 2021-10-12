@@ -1,0 +1,4 @@
+This folder is contians the Regression Analysis on the datset on which Exploratory Data Analysis is previously performed.  
+Here, OLS model is created using statsmodel on the full dataset.
+Later, the data is divided into training ans testing data.
+Finally Ridge regression and Lasso regression are performed in th data.
