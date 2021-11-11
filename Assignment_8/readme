@@ -2,6 +2,6 @@ This assignment is based on ensembles as part of DATA_602.
 The dataset used as part of this assignment is based on flight data which contains attributes related to various flights and their carriers.
 The data is first analysed i.e., missing values are found if any and they are treated accordingly.
 A processing pipeline is created using the pre-processed data.
-Later Logistic Regressiion and Decision tree are fitted using grid search. 
-USing the abive two models an Ensemble is fit.
-FInally an Adaboost is fit using any model.
+Later Logistic Regression and Decision tree are fitted using grid search. 
+Using the above two models an Ensemble is fit.
+Finally an Adaboost is fit using any model.
